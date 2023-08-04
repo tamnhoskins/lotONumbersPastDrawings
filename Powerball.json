@@ -1,5 +1,15 @@
 {
   "drawings": [
+    {"drawingDate": "8/2/2023", "whiteBalls": [23,24,33,51,64], "goldBall": 5},
+    {"drawingDate": "7/31/2023", "whiteBalls": [2,11,48,58,65], "goldBall": 13},
+    {"drawingDate": "7/29/2023", "whiteBalls": [10,25,27,34,38], "goldBall": 2},
+    {"drawingDate": "7/26/2023", "whiteBalls": [3,16,40,48,60], "goldBall": 14},
+    {"drawingDate": "7/24/2023", "whiteBalls": [3,4,12,28,49], "goldBall": 25},
+    {"drawingDate": "7/22/2023", "whiteBalls": [25,27,36,37,63], "goldBall": 7},
+    {"drawingDate": "7/19/2023", "whiteBalls": [7,10,11,13,24], "goldBall": 24},
+    {"drawingDate": "7/17/2023", "whiteBalls": [5,8,9,17,41], "goldBall": 21},
+    {"drawingDate": "7/15/2023", "whiteBalls": [2,9,43,55,57], "goldBall": 18},
+    {"drawingDate": "7/12/2023", "whiteBalls": [23,35,45,66,67], "goldBall": 20},
     {"drawingDate": "7/10/2023", "whiteBalls": [2,24,34,53,58], "goldBall": 13},
     {"drawingDate": "7/8/2023", "whiteBalls": [7,23,24,32,43], "goldBall": 18},
     {"drawingDate": "7/5/2023", "whiteBalls": [17,24,48,62,68], "goldBall": 23},
